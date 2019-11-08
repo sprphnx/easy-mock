@@ -1,0 +1,11 @@
+${AnsiColor.GREEN}       _________           __________.__           ____  ___    
+${AnsiColor.GREEN}      /   _____/___________\______   \  |__   ____ \   \/  /    
+${AnsiColor.GREEN}      \_____  \\____ \_  __ \     ___/  |  \ /    \ \     /     
+${AnsiColor.GREEN}      /        \  |_> >  | \/    |   |   Y  \   |  \/     \     
+${AnsiColor.GREEN} /\  /_______  /   __/|__|  |____|   |___|  /___|  /___/\  \  /\
+${AnsiColor.GREEN} \/          \/|__|                       \/     \/      \_/  \/
+${AnsiColor.DEFAULT}--------------------------------------------------------------------------
+        Spring Boot Formatted Version : ${spring-boot.formatted-version}
+${AnsiColor.DEFAULT}--------------------------------------------------------------------------
+${AnsiColor.GREEN}	           Easy Mock APP BOOTING UP
+${AnsiColor.DEFAULT}--------------------------------------------------------------------------
